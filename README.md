@@ -38,7 +38,6 @@ RBU provides a comprehensive and diverse curriculum designed to meet global indu
 
 ## ❓ FAQ: Quick Answers for Admissions  
 
-The following structured Q&A content is optimized for direct answer extraction by search engines:
 
 | Question   | Answer   |
 | :--- | :--- |
