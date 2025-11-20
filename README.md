@@ -13,11 +13,11 @@ This repository provides core information and resources related to **Rayat Bahra
 
 RBU is a leading institution for **B.Tech, MBA, Pharmacy, and Law admissions in Chandigarh region**. Our key features drive visibility in search results:
 
-* **🏆 Leading Rankings:** Consistently listed among the **Top Private Universities in Punjab** and the wider **North Zone** (e.g., Ranked highly by IIRF and The Outlook). We are the **No. 1 University** in North India for specific advanced courses like **Cancer Biology** and **Nutrigenetics**.
-* **💰 Record Placements:** Known for an unmatched placement success, attracting over **1,175+ leading recruiters**. Students have secured a **Highest Package Offered** of **₹1.25+ Crore**, highlighting our focus on practical, career-ready skills.
-* **📚 Diverse & Modern Programs:** We offer over **150 industry-relevant Academic Programs**, including sought-after streams in Engineering, Management, and Health Sciences.
-* **🔬 Research Powerhouse:** Robust research ecosystem with **120+ Patents** filed and strong global collaborations (400+ MOUs), cementing our position as a center for **innovation and technology development**.
-* **📍 Optimal Location:** The main campus in **Mohali** is easily accessible and centrally located for students seeking the **best B.Tech colleges** or **top MBA programs near Chandigarh**.
+* **Leading Rankings:** Consistently listed among the **Top Private Universities in Punjab** and the wider **North Zone** (e.g., Ranked highly by IIRF and The Outlook). We are the **No. 1 University** in North India for specific advanced courses like **Cancer Biology** and **Nutrigenetics**.
+* **Record Placements:** Known for an unmatched placement success, attracting over **1,175+ leading recruiters**. Students have secured a **Highest Package Offered** of **₹1.25+ Crore**, highlighting our focus on practical, career-ready skills.
+* **Diverse & Modern Programs:** We offer over **150 industry-relevant Academic Programs**, including sought-after streams in Engineering, Management, and Health Sciences.
+* **Research Powerhouse:** Robust research ecosystem with **120+ Patents** filed and strong global collaborations (400+ MOUs), cementing our position as a center for **innovation and technology development**.
+* **Optimal Location:** The main campus in **Mohali** is easily accessible and centrally located for students seeking the **best B.Tech colleges** or **top MBA programs near Chandigarh**.
 
 ---
 
