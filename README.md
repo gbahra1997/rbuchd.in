@@ -3,13 +3,13 @@ This is the official website (https://rbuchd.in) for Rayat Bahra University, Moh
 
 # Rayat Bahra University Mohali (RBU) | Top Private University in Punjab & Chandigarh Region
 
-## 🌟 University Overview
+##  University Overview
 
 This repository provides core information and resources related to **Rayat Bahra University (RBU)**, a premier **UGC Recognized** and **NAAC Accredited** institution located in the heart of **Mohali, Punjab, India**. Strategically positioned in the **Tricity Area** (Chandigarh-Mohali-Panchkula), RBU is committed to providing over **20 years of academic excellence** through industry-integrated learning, a focus on innovation, and achieving a proven record of **strong placements** across **North India**. We offer a wide spectrum of career-focused undergraduate, postgraduate, and doctoral programs, ensuring quality **higher education in Punjab**.
 
 ---
 
-## ✨ Key Features & Global Recognition
+##  Key Features & Global Recognition
 
 RBU is a leading institution for **B.Tech, MBA, Pharmacy, and Law admissions in Chandigarh region**. Our key features drive visibility in search results:
 
